@@ -1,0 +1,22 @@
+- title: Integrantes del equipo 3
+  images:
+    - link: https://placehold.co/800x600
+      large_link: https://placehold.co/1200x900
+      alt: Juan Jose
+      description: Juan Jose
+      ratio: is-4by3
+    - link: https://placehold.co/800x600
+      large_link: https://placehold.co/1200x900
+      alt: Noe Nieto
+      description: Noe Misael Nieto Arroyo <nnieto@noenieto.com>
+      ratio: is-4by3
+    - link: https://placehold.co/800x600
+      large_link: https://placehold.co/1200x900
+      alt: Thalia
+      description: Thalia
+      ratio: is-4by3
+    - link: https://placehold.co/800x600
+      large_link: https://placehold.co/1200x900
+      alt: Valeria Torres
+      description: Valeria Torres
+      ratio: is-4by3

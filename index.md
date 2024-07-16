@@ -1,3 +1,5 @@
-# Intro a la IA Creativa
-
-Bienvenidos, este es el proyecto del equipo 3.
+---
+layout: page
+title: The page title
+subtitle: The page subtitle
+---
