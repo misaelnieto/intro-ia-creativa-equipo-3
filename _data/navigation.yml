@@ -2,15 +2,15 @@
   dropdown: 
     - name: Nuestra historia
       link: /nuestra-historia/
-    - name: Sostenibilidad
-      link: /sostenibilidad/
-    - name: Noticias
-      link: /noticias/
+    # - name: Sostenibilidad
+    #   link: /sostenibilidad/
+    # - name: Noticias
+    #   link: /noticias/
     - name: Generado por IA
       link: /prompts/
     - name: Integrantes del equipo 3
       link: /equipo/
 - name: Productos
   link: /productos/
-- name: Contacto
-  link: /contacto/
+# - name: Contacto
+#   link: /contacto/

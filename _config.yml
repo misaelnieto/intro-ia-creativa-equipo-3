@@ -30,6 +30,7 @@ twitter_username: amanecer_veracruzano
 theme: bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jekyll-toc
 
 # Exclude from processing.
 # The following items will not be processed, by default.
