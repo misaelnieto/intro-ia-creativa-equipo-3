@@ -1,5 +1,6 @@
 ---
-layout: page
-title: The page title
-subtitle: The page subtitle
+title: Amanecer Veracruzano
+subtitle: Despierta tus sentidos
+layout: productos
+sort: price
 ---
