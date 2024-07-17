@@ -14,7 +14,7 @@ features:
       icon: fa-cookie
 rating: 4
 # hero_image: /img/hero-img.jpg
-image: https://via.placeholder.com/640x480
+image: /media/cafe3.jpg
 product_code: VI1234
 layout: product
 price: $120.00 mxn + gastos de envio

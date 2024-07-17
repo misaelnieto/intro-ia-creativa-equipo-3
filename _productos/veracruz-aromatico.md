@@ -14,7 +14,7 @@ features:
       icon: fa-flower
 rating: 5
 # hero_image: /img/hero-img.jpg
-image: https://via.placeholder.com/640x480
+image: /media/cafe2.png
 product_code: VA1234
 layout: product
 price: $100.00 mxn + gastos de envio

@@ -14,7 +14,7 @@ features:
       icon: fa-heart
 rating: 5
 # hero_image: /img/hero-img.jpg
-image: https://via.placeholder.com/640x480
+image: /media/cafe1.png
 product_code: AE1234
 layout: product
 price: $150.00 mxn + gastos de envio

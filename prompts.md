@@ -157,7 +157,7 @@ Se uso Recraft AI. El prompt fue:
 
 El resultado fue el siguiente:
 
-![Generacion del logotipo de la taza](media/generacion-de-taza.png)
+![Generacion del logotipo de la taza](/media/generacion-de-taza.png)
 
 
 ## Generacion de imagenes de fondo
