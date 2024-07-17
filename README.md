@@ -4,8 +4,9 @@
 
 ### Descripcion del proyecto
 
-De que se trata?
+Se genero el concepto de marca y el contenido para un sitio web que vende cafe.
 
+El sitio web final se encuentra en https://intro-ia-creativa-equipo-3.vercel.app/
 
 ### Uso de tecnología
 
@@ -14,7 +15,7 @@ De que se trata?
 - [GitHub](https://github.com/) y [Github Pages](https://pages.github.com/) para alojar el contenido de la pagina.
 - [Jekyll](https://jekyllrb.com/). Generador de sitios estaticos. Soporta mardown y GithubPages.
 - [Bulma Clean Theme](https://github.com/chrisrhymes/bulma-clean-theme). Tema Jekyll usado como base para el sitio.
-- [Prose](https://prose.io/) - Editor de contenido para generadores de sitios estaticos con integracion a GitHub
+
 
 ## Participantes
 
@@ -22,6 +23,12 @@ En orden alfabético:
 
 
 - Juan Jose
-- Noe Misael Nieto Arroyo <nnieto@noenieto.com>
-- Thalia
+- Noe Nieto
+- Talía Guerrero
 - Valeria Torres
+
+
+# Prompts de ChatGPT
+
+- [Documento de Google Docs](https://docs.google.com/document/d/12fgML_QP_jFvY_g_vQuKUnx9c-Kvpeq-79XROsStII0/edit) con los prompts usados para generar el concepto del producto y obtener guias para generar las secciones del sitio.
+- [Prompts para generar contenido en formato yaml y generacion de imagenes](https://intro-ia-creativa-equipo-3.vercel.app/prompts/).

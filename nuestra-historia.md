@@ -3,7 +3,18 @@ layout: page
 title: Nuestra historia
 subtitle: Bienvenidos a Amanecer Veracruzano - Despierta Tus Sentidos
 toc: true
+hero_image: /media/coffee-plants-hills-from-veracruz.svg
 ---
+
+<style type="text/css">
+  .hero {
+  text-shadow:
+    1px 1px 2px black,
+    0 0 1em #4E342E,
+    0 0 0.2em #FFA726;
+  color: white;
+  }
+</style>
 
 {% toc %}
 

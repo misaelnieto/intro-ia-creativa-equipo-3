@@ -7,24 +7,7 @@ layout: page
 
 ### Diseño del producto
 
-*Prompt:*
-
-```
-????
-```
-
-*Respuesta:*
-
-```
-Para el sitio web, te sugiero las siguientes secciones:
-
-Inicio: Una presentación atractiva de tu marca.
-Nuestra Historia: La historia y origen del café, destacando su procedencia veracruzana.
-Productos: Una tienda en línea con tus diferentes variedades de café.
-Sostenibilidad: Información sobre tus prácticas sostenibles.
-Blog: Artículos sobre el café, recetas, y noticias.
-Contacto: Formulario de contacto y redes sociales.
-```
+[Documento de Google Docs](https://docs.google.com/document/d/12fgML_QP_jFvY_g_vQuKUnx9c-Kvpeq-79XROsStII0/edit) con los prompts usados para generar el concepto del producto y obtener guias para generar las secciones del sitio.
 
 
 # Generacion de secciones especificas del sitio
@@ -164,3 +147,22 @@ product_code: VA1234
 layout: product
 price: $100.00 mxn + gastos de envio
 ```
+
+
+## Generacion del logo
+
+Se uso Recraft AI. El prompt fue:
+
+> A smoking cup of coffee at the right with transparent background. Use Classicism style art. The background is transparent
+
+El resultado fue el siguiente:
+
+![Generacion del logotipo de la taza](media/generacion-de-taza.png)
+
+
+## Generacion de imagenes de fondo
+
+### Seccion de nuestra historia
+
+![Generacion de imagen de fondo para nuestra historia](/media/generacion-nuestra-historia.png)
+
